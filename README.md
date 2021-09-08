@@ -6,12 +6,9 @@
 					matrix in order to speed up the training.
 * Used logistic regression as the final step to calibrate the individual GMM's prediction
 * Rented 5 AWS c4.8xlarge spot instances in order to train the models in time
-* Used iPython notebooks, sklearn, AWS spot machines and  <a href="https://github.com/juandavm/em4gmm">this</a> GMM library
-* Client was <a href="https://www.faithcomesbyhearing.com/">Faith Comes by Hearing</a>
-* The above was done within 2 weeks, in Summer 2015
+* Used iPython notebooks, sklearn, AWS spot machines and GMM library
 
 ## How to run
-
 The main program is in src/main.py. To run it, use python2.7.
 eg: ```python2.7 main.py init```
 The necessary environment setup can be done with src/build_script.sh (for Ubuntu)
