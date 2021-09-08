@@ -1,0 +1,15 @@
+Äcsklearn.linear_model.logistic
+LogisticRegression
+q )Åq}q(UCqG@¯j     Umax_iterqKdUverboseqK Uintercept_scalingqKUdualqâUfit_interceptqàUclasses_q	cjoblib.numpy_pickle
+NDArrayWrapper
+q
+)Åq}q(Usubclassqcnumpy
+ndarray
+qUfilenameqUlogreg_calibration_final_01.npyqubUsolverqU	liblinearqUn_iter_qcnumpy.core.multiarray
+scalar
+qcnumpy
+dtype
+qUi4qK KáqRq(KU<qNNNJˇˇˇˇJˇˇˇˇK tqbU   qÜqRqUpenaltyqUl2qUmulti_classq Uovrq!Urandom_stateq"K Utolq#G?6‚ÎC-Ucoef_q$h
+)Åq%}q&(hhhUlogreg_calibration_final_02.npyq'ubU
+intercept_q(h
+)Åq)}q*(hhhUlogreg_calibration_final_03.npyq+ubUclass_weightq,Nub.
