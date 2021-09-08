@@ -1,14 +1,3 @@
-# Spoken Language Identification
-
-Winning submission for the Spoken Language Identification challenge on TopCoder (a machine learning competition platform like Kaggle).
-
-In-depth report: https://github.com/CatalinTiseanu/spoken-language-identification/blob/master/SpokenLanguages2%20-%20report.pdf
-
-Problem statement and dataset: https://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=16555&pm=13978
-
-Results: https://community.topcoder.com/longcontest/stats/?module=ViewOverview&rd=16555
- (my handle is CatalinT)
-
 ## Description
 * Built a language classifier which received as input a 10 second mp3 and had to classify
 				 the language spoken in the mp3 - amongst 176 output language classes
