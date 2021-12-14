@@ -1,4 +1,4 @@
-# (c) Catalin-Stefan Tiseanu, 2015-
+
 
 import os
 import parmap
